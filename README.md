@@ -47,7 +47,7 @@ pip install numpy pennylane matplotlib
 
 ## Usage
 
-Open and run `topic_2a_classical_shadows.ipynb` in Jupyter:
+Open and run `main.ipynb` in Jupyter:
 
 ```bash
 jupyter notebook topic_2a_classical_shadows.ipynb
