@@ -21,7 +21,7 @@ estimate the second Renyi entropy $S_2(\rho_A) = -\log_2 \mathrm{Tr}(\rho_A^2)$ 
 | **Trotter time evolution** | First-order Trotterization of $e^{-iH_{XY}t}$ using `qml.IsingXX` / `qml.IsingYY` |
 | **Exact Renyi entropy** | State-vector partial trace to compute $S_2(\rho_A)$ for all subsystem sizes |
 | **Random Pauli measurements** | Simulation of M random Pauli basis choices with K shots each |
-| **Shadow Renyi estimator** | Cross-correlator: estimate$\text{Tr}(\rho_A^2)$. from pairwise outcome matches across    shots (Eq. 3 in paper) |
+| **Shadow Renyi estimator** | Cross-correlator: estimate from pairwise outcome matches across shots (Eq. 3 in paper) |
 | **Exact vs Shadow comparison** | Side-by-side plots for $t \in [0, 1]$ (analogous to Fig. 3b in the paper) |
 | **M, K dependence (8+)** | Convergence analysis with error bars and error heatmap |
 
