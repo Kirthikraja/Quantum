@@ -50,7 +50,7 @@ pip install numpy pennylane matplotlib
 Open and run `main.ipynb` in Jupyter:
 
 ```bash
-jupyter notebook topic_2a_classical_shadows.ipynb
+jupyter notebook main.ipynb
 ```
 
 Run cells sequentially. Sections 1-5 complete in under a minute. Section 6 (M, K parameter sweep) takes a few minutes.
@@ -60,7 +60,7 @@ Run cells sequentially. Sections 1-5 complete in under a minute. Section 6 (M, K
 ```
 .
 ├── README.md
-└── topic_2a_classical_shadows.ipynb   # Full implementation notebook
+└── main.ipynb   # Full implementation notebook
 ```
 
 ## Key Parameters
